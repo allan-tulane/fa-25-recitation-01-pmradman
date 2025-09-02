@@ -70,7 +70,7 @@ def time_search(search_fn, mylist, key):
 	  search function on this input.
 	"""
 	### TODO
-	start_time = time.time() * 1000   
+	start_time = time.time() * 1000  
 	search_fn(mylist, key)    
 	end_time = time.time() * 1000   
 	total_time = end_time-start_time 

@@ -76,6 +76,6 @@ We'll compare the running times of `linear_search` and `binary_search` empirical
  n^2 < k(n-log2n)
  n^2/(n-log2n) < k
 
- so if n is 100, k is about 107
+ so if n is 100, k is about 107 
 
  
